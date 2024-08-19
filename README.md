@@ -17,4 +17,4 @@ OPENAI_API_KEY="xyz"
 ### P.S also, the ideal thing we tried to do was actually a multi-modal rag like in this repo: https://github.com/langchain-ai/langchain/blob/master/cookbook/Multi_modal_RAG.ipynb.
 
 - failed pretty bad at that and hoping the main reason this rag isn't working is just the reranker and not a lack of multimodality in order to process the documents in the repo (bc our .py file is using OAI api, which only processes text, rather than Gemini 1.5, which does images...but the documentation was horrible for google rag stuff)
-- you can find one of our attempts in doing that in mm1.py, but its not very interesting and pretty messy. at this point we've accepted that multimodality isnt something we care too much about. mostly just rag that works.
+- you can find one of our attempts of this in mm1.py, but its not very interesting and pretty messy. at this point we've accepted that multimodality isnt something we care too much about. mostly just rag that works.
