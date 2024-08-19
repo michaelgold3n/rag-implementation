@@ -14,7 +14,7 @@ OPENAI_API_KEY="xyz"
 
   LLAMA_CLOUD_API_KEY="xyz"
 
-## P.S
+## btw,
 
 ### the ideal thing we tried to do was actually a multi-modal rag like in this repo: https://github.com/langchain-ai/langchain/blob/master/cookbook/Multi_modal_RAG.ipynb.
 
