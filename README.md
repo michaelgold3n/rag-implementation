@@ -1,4 +1,4 @@
-## reranker explanation:
+# reranker explanation:
 - top_n=5: Limits the reranking to the top 5 results.
 - model="BAAI/bge-reranker-large": Specifies the model used for reranking.
 
